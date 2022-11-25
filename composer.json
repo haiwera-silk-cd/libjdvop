@@ -13,7 +13,7 @@
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^7.5",
         "dusank/knapsack": "^10.0",
-        "jms/serializer": "^1.11",
+        "jms/serializer": "^3.18",
         "doctrine/cache": "^1.7",
         "pimple/pimple": "^3.2",
         "predis/predis": "^1.1",
